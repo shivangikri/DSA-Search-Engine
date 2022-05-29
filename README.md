@@ -31,6 +31,9 @@ $ npm i express ejs natural@2.4.5
 2) Run index.js file to host app locally:
 ```
 $ npm start index.js
+
+### Web Application link
+    http://search-and-solve.herokuapp.com/
 ```
 3) That's it! App is now hosted on local server.
 
